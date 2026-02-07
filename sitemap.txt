@@ -1,10 +1,10 @@
 https://plog.xukaiyyds.cn/wallpaper/index.html
+https://plog.xukaiyyds.cn/json/music.json
+https://plog.xukaiyyds.cn/landscape/index.html
 https://plog.xukaiyyds.cn/life/index.html
 https://plog.xukaiyyds.cn/music/index.html
 https://plog.xukaiyyds.cn/photo/index.html
 https://plog.xukaiyyds.cn/tags/index.html
-https://plog.xukaiyyds.cn/json/music.json
-https://plog.xukaiyyds.cn/landscape/index.html
 https://plog.xukaiyyds.cn/album/index.html
 https://plog.xukaiyyds.cn/categories/index.html
 https://plog.xukaiyyds.cn/essay/index.html
