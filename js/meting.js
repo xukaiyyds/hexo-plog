@@ -1,0 +1,1 @@
+var meting_api="https://meting-api.xukaiyyds.cn/api?server=:server&type=:type&id=:id&auth=:auth&r=:r";
